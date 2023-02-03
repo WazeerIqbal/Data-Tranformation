@@ -1,0 +1,6 @@
+Props:
+    If you want to little changes in the components not the whole components then we pass "props"
+State:
+    State blong to a component. Using hook we use feature of class without making classes. We cannot set state directly 
+React Router DOM:
+    React Router DOM is a external package. Advantage of this  package is we dont't need to reload the whole page again and again e.g when we reload a website the header, foter, and some other section will remain same when we change the page, so reac router will help not to reload these pages again and again once we relaod the page and when we swap to other page only some content will change not the whole page is change.  
